@@ -1,3 +1,4 @@
+//ispalying numer var
 package mathTwo;
 
 public class printIt {
